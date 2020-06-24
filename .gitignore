@@ -1,5 +1,5 @@
 #ADA Rules
-/*
-!*.txt
-!*.adb
+/ada/*
+!/ada/*.txt
+!/ada/*.adb
 #Specify certain 
