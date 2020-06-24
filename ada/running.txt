@@ -1,0 +1,3 @@
+ADA is a compiled language. To run you need to:
+1. Compile the file using gnat make
+2. Run the compiled file
