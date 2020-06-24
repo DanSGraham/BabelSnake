@@ -1,8 +1,0 @@
-#ADA Rules
-/ada/*
-!/ada/*.txt
-!/ada/*.adb
-!/ada/*/
-!/ada/*/*/
-!/ada/*/*/*.adb
-#Specify certain 
