@@ -1,0 +1,3 @@
+To compile and run:
+1. gfortran infile -o outfile
+2. run the compiled file

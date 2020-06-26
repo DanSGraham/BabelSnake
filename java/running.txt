@@ -1,0 +1,3 @@
+To compile and run:
+1. javac infile
+2. java the compiled file
