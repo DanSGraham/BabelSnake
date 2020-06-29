@@ -1,0 +1,7 @@
+#!/usr/bin/perl
+use warnings;
+my @a = (1..10);
+for(@a){
+	print("$_","\n");
+}
+
