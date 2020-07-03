@@ -4,7 +4,7 @@ with Ada.Float_Text_IO;
 use Ada.Float_Text_IO;
 with Ada.Text_IO;
 use Ada.Text_IO;
-procedure arithmatic is
+procedure arithmetic is
 	first_val,second_val,numerator,denominator,answer_val_int : INTEGER;
 	first_val_float,denom_float,answer_val_float : FLOAT;
 begin
@@ -84,4 +84,4 @@ begin
     New_Line;
     New_Line;
 
-end arithmatic;
+end arithmetic;
